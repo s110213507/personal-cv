@@ -9,8 +9,8 @@
 
 <channel>
 	<title>cv</title>
-	<atom:link href="/https://s110213507.github.io/personal-cv/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://s110213507.github.io/personal-cv</link>
+	<atom:link href="http://s110213507.github.io/personal-cv/feed/" rel="self" type="application/rss+xml" />
+	<link>http://s110213507.github.io/personal-cv</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Thu, 14 Apr 2022 15:32:29 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
 		<title>網站第一篇文章</title>
-		<link>/https://s110213507.github.io/personal-cv/2022/04/14/hello-world/</link>
-					<comments>/https://s110213507.github.io/personal-cv/2022/04/14/hello-world/#comments</comments>
+		<link>http://s110213507.github.io/personal-cv/2022/04/14/hello-world/</link>
+					<comments>http://s110213507.github.io/personal-cv/2022/04/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 15:32:29 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/https://s110213507.github.io/personal-cv/?p=1</guid>
+		<guid isPermaLink="false">http://s110213507.github.io/personal-cv/?p=1</guid>
 
 					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
 										<content:encoded><![CDATA[
 <p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://s110213507.github.io/personal-cv/2022/04/14/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>http://s110213507.github.io/personal-cv/2022/04/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
